@@ -2,6 +2,6 @@ import React from 'react'
 
 export const Aboutus = () => {
   return (
-    <div>Aboutus</div>
+    <div>Aboutus is muneer</div>
   )
 }
