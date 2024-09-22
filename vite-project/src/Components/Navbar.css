@@ -1,0 +1,19 @@
+.nav,ul {
+    display: flex; /* Make the navbar a flex container */
+   justify-content: space-between;
+    align-items: center; /* Center items vertically */
+    margin: 10px 100px; /* Add padding for spacing */
+  }
+  
+  .sections {
+    display: flex;
+    align-items: center; /* Center items horizontally */
+  }
+  
+  .page {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    
+   
+  }
