@@ -2,7 +2,8 @@
     display: flex; /* Make the navbar a flex container */
    justify-content: space-between;
     align-items: center; /* Center items vertically */
-    margin: 10px 100px; /* Add padding for spacing */
+    /* margin: 10px 100px; Add padding for spacing */
+    
   }
   
   .sections {
@@ -13,7 +14,10 @@
   .page {
     margin-left: 10px;
     display: flex;
-    flex-direction: row;
-    
+    flex-direction: row;    
    
+  }
+.page{
+    text-decoration: none;
+    color: #f7f0f0;
   }
